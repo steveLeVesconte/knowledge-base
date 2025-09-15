@@ -1,0 +1,384 @@
+{
+  "main": {
+    "id": "70192047c54e85fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b24337366765a96d",
+        "type": "tabs",
+        "dimension": 49.750933997509335,
+        "children": [
+          {
+            "id": "7682d2a8b42233a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "26c448dde8f9c0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-tags.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-tags.md"
+            }
+          },
+          {
+            "id": "76424fc67919c399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Kron.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kron.md"
+            }
+          },
+          {
+            "id": "58fc73e396d9551a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Kron.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kron.md"
+            }
+          },
+          {
+            "id": "3cbf1957245e03f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-tags.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-tags.md"
+            }
+          },
+          {
+            "id": "644ef6c6b45e708f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/kayaking.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kayaking.md"
+            }
+          },
+          {
+            "id": "00ffa61a374ed1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/exercise.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exercise.md"
+            }
+          },
+          {
+            "id": "8ef0f324a509fd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/kron.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kron.md"
+            }
+          },
+          {
+            "id": "8c667276fdf3610e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/ai-sessions/2025-09-14-obsidian-note-system-setup.md.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14-obsidian-note-system-setup.md"
+            }
+          },
+          {
+            "id": "cd51c81a42754ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/cheatsheets/git-cheatsheet.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git-cheatsheet.md"
+            }
+          },
+          {
+            "id": "fc662df1879423f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/cheatsheets/bicep-cheatsheet.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bicep-cheatsheet.md"
+            }
+          },
+          {
+            "id": "844183ae76f2695d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/cheatsheets/git-cheatsheet.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git-cheatsheet.md"
+            }
+          },
+          {
+            "id": "bae8f11d9df2e5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resume vocabulary.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "resume vocabulary"
+            }
+          }
+        ],
+        "currentTab": 12
+      },
+      {
+        "id": "9885905c21779e60",
+        "type": "tabs",
+        "dimension": 50.249066002490665,
+        "children": [
+          {
+            "id": "acb5204370cc711d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d34c7c1c4111756",
+    "type": "split",
+    "children": [
+      {
+        "id": "e878116a6bceb1c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf016939351f38aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3254952fc8039890",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#gitignore",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "844f68d2913eb939",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "129b7c5172a4b390",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a15bbcc4891365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fe42cd9164c5725",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "resume vocabulary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for resume vocabulary"
+            }
+          },
+          {
+            "id": "fdd1bcbd6c0b8193",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "resume vocabulary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from resume vocabulary"
+            }
+          },
+          {
+            "id": "e9a83bc6bf38469f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee2ea27db563d86e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "resume vocabulary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of resume vocabulary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bae8f11d9df2e5d0",
+  "lastOpenFiles": [
+    "Tech/cheatsheets/git-cheatsheet.md.md",
+    "resume vocabulary.md",
+    "resume/vocabulary",
+    "resume",
+    "az-cli-cheatsheet.md.md",
+    "Tech/cheatsheets/bicep-cheatsheet.md.md",
+    "2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
+    "Tech/ai-sessions/2025-09-14-obsidian-note-system-setup.md.md",
+    "Personal/kron.md.md",
+    "Tech/ai-sessions",
+    "Personal/exercise.md.md",
+    "Personal/kayaking.md.md",
+    "00-tags.md.md",
+    "Tech/concepts",
+    "Tech/prompts",
+    "Tech/Kron.md.md",
+    "Tech/cheatsheets",
+    "templates/kron-template.md.md",
+    "templates",
+    "Welcome.md",
+    "Personal",
+    "Tech"
+  ]
+}
