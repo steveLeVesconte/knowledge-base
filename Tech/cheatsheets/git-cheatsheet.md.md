@@ -40,6 +40,14 @@ Shows all files included for git (not ignored)  by your `.gitignore`. Useful for
 git ls-files .gitignore
 ```
 
+The command above works on solutions in a normal checked-in state.  For new projects:
+```
+git init
+<add a .gitignore file>
+git ls-files --others --exclude-standard
+```
+
+
 
 ## Branch creation
 #git #utility #branch
@@ -171,3 +179,8 @@ git status && echo "--- Remote status ---" && git fetch --dry-run
 
 But honestly, just `git status` is usually sufficient. If it says "nothing to commit, working tree clean" and "up to date with origin", you're good to branch!
 
+## Rename branch:
+
+```
+git branch -m master main
+```
