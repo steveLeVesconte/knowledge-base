@@ -6,7 +6,7 @@
       {
         "id": "b24337366765a96d",
         "type": "tabs",
-        "dimension": 49.750933997509335,
+        "dimension": 58.24324324324325,
         "children": [
           {
             "id": "7682d2a8b42233a7",
@@ -182,21 +182,133 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume vocabulary.md",
-                "mode": "preview",
+                "file": "resume/vocabulary/resume vocabulary.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "resume vocabulary"
             }
+          },
+          {
+            "id": "42699a01b25acfb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14-ps-scaffold-config-loader-app-insights.md"
+            }
+          },
+          {
+            "id": "2786ab21ab1ed69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14-ps-scaffold-config-loader-app-insights.md"
+            }
+          },
+          {
+            "id": "a3900deb4dd3f1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/scripts-and-snippets/az-cli-snippets.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "az-cli-snippets.md"
+            }
+          },
+          {
+            "id": "1d3c28fbad0c6556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-14-ps-scaffold-config-loader-app-insights.md"
+            }
+          },
+          {
+            "id": "04fbf91a97bd4f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/cheatsheets/git-cheatsheet.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git-cheatsheet.md"
+            }
+          },
+          {
+            "id": "169bef498e245578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/gitignore-with-ai.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "gitignore-with-ai"
+            }
+          },
+          {
+            "id": "0cdc43b66e83e681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resume/vocabulary/resume vocabulary.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "resume vocabulary"
+            }
+          },
+          {
+            "id": "996c2165e2851944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-tags.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-tags.md"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 20
       },
       {
         "id": "9885905c21779e60",
         "type": "tabs",
-        "dimension": 50.249066002490665,
+        "dimension": 41.75675675675676,
         "children": [
           {
             "id": "acb5204370cc711d",
@@ -337,16 +449,27 @@
               "icon": "lucide-list",
               "title": "Outline of resume vocabulary"
             }
+          },
+          {
+            "id": "ae7541f89d0b3aec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -356,29 +479,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "bae8f11d9df2e5d0",
+  "active": "996c2165e2851944",
   "lastOpenFiles": [
+    "NoteOfUnknownValue.md",
+    "session.md",
+    "resume/interview questions.md",
+    "resume/vocabulary/resume vocabulary.md",
     "Tech/cheatsheets/git-cheatsheet.md.md",
-    "resume vocabulary.md",
+    "Tech/concepts/Steps to making context for a chat prompt about a .NET9 solution.md",
+    "00-tags.md.md",
+    "templates/gitignore-with-ai.md",
+    "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
+    "Tech/prompts/2025-09-16-prompt-for-bicep",
+    "Tech/scripts-and-snippets/az-cli-snippets.md.md",
+    "Personal/safety-or-junk/NoteOfUnknownValue.md",
+    "Personal/safety-or-junk",
+    "Tech/scripts-and-snippets",
+    "Tech/scripts-and-snippets.md",
+    "Welcome.md",
+    "Tech/cheatsheets/az-cli-cheatsheet.md.md",
+    "Tech/prompts/session-oriented-prompts.md.md",
+    "Tech/ai-sessions/2025-09-14-obsidian-note-system-setup.md.md",
     "resume/vocabulary",
     "resume",
-    "az-cli-cheatsheet.md.md",
     "Tech/cheatsheets/bicep-cheatsheet.md.md",
-    "2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
-    "Tech/ai-sessions/2025-09-14-obsidian-note-system-setup.md.md",
     "Personal/kron.md.md",
     "Tech/ai-sessions",
     "Personal/exercise.md.md",
     "Personal/kayaking.md.md",
-    "00-tags.md.md",
     "Tech/concepts",
     "Tech/prompts",
     "Tech/Kron.md.md",
     "Tech/cheatsheets",
     "templates/kron-template.md.md",
-    "templates",
-    "Welcome.md",
-    "Personal",
-    "Tech"
+    "templates"
   ]
 }
