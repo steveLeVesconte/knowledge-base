@@ -4,323 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "b24337366765a96d",
+        "id": "9885905c21779e60",
         "type": "tabs",
-        "dimension": 58.24324324324325,
         "children": [
           {
-            "id": "7682d2a8b42233a7",
+            "id": "9d586d55a9206cb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Tech/prompts/auto-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "auto-log"
             }
           },
           {
-            "id": "26c448dde8f9c0e0",
+            "id": "a29ac4927157c628",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-tags.md.md",
+                "file": "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-tags.md"
+              "title": "prompt"
             }
           },
           {
-            "id": "76424fc67919c399",
+            "id": "066abc38c9cdd3ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Kron.md.md",
+                "file": "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-plan/smoke-test-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kron.md"
+              "title": "smoke-test-template"
             }
           },
           {
-            "id": "58fc73e396d9551a",
+            "id": "b0ed2b976b666fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Kron.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kron.md"
-            }
-          },
-          {
-            "id": "3cbf1957245e03f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-tags.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-tags.md"
-            }
-          },
-          {
-            "id": "644ef6c6b45e708f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/kayaking.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kayaking.md"
-            }
-          },
-          {
-            "id": "00ffa61a374ed1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/exercise.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "exercise.md"
-            }
-          },
-          {
-            "id": "8ef0f324a509fd4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/kron.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kron.md"
-            }
-          },
-          {
-            "id": "8c667276fdf3610e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/ai-sessions/2025-09-14-obsidian-note-system-setup.md.md",
+                "file": "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/project-outline.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-09-14-obsidian-note-system-setup.md"
+              "title": "project-outline"
             }
           },
           {
-            "id": "cd51c81a42754ea9",
+            "id": "4a764c5931572386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/cheatsheets/git-cheatsheet.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git-cheatsheet.md"
-            }
-          },
-          {
-            "id": "fc662df1879423f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/cheatsheets/bicep-cheatsheet.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bicep-cheatsheet.md"
-            }
-          },
-          {
-            "id": "844183ae76f2695d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/cheatsheets/git-cheatsheet.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git-cheatsheet.md"
-            }
-          },
-          {
-            "id": "bae8f11d9df2e5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume/vocabulary/resume vocabulary.md",
+                "file": "Tech/process/templates/prompt-template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "resume vocabulary"
-            }
-          },
-          {
-            "id": "42699a01b25acfb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-14-ps-scaffold-config-loader-app-insights.md"
-            }
-          },
-          {
-            "id": "2786ab21ab1ed69d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-14-ps-scaffold-config-loader-app-insights.md"
-            }
-          },
-          {
-            "id": "a3900deb4dd3f1ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/scripts-and-snippets/az-cli-snippets.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "az-cli-snippets.md"
-            }
-          },
-          {
-            "id": "1d3c28fbad0c6556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-14-ps-scaffold-config-loader-app-insights.md"
-            }
-          },
-          {
-            "id": "04fbf91a97bd4f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/cheatsheets/git-cheatsheet.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git-cheatsheet.md"
-            }
-          },
-          {
-            "id": "169bef498e245578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/gitignore-with-ai.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "gitignore-with-ai"
-            }
-          },
-          {
-            "id": "0cdc43b66e83e681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume/vocabulary/resume vocabulary.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "resume vocabulary"
-            }
-          },
-          {
-            "id": "996c2165e2851944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-tags.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-tags.md"
+              "title": "prompt-template"
             }
           }
         ],
-        "currentTab": 20
-      },
-      {
-        "id": "9885905c21779e60",
-        "type": "tabs",
-        "dimension": 41.75675675675676,
-        "children": [
-          {
-            "id": "acb5204370cc711d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -352,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gitignore",
+                "query": "tag:#Project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 531.5
   },
   "right": {
     "id": "129b7c5172a4b390",
@@ -465,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -479,39 +238,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "996c2165e2851944",
+  "active": "a29ac4927157c628",
   "lastOpenFiles": [
-    "NoteOfUnknownValue.md",
-    "session.md",
-    "resume/interview questions.md",
-    "resume/vocabulary/resume vocabulary.md",
-    "Tech/cheatsheets/git-cheatsheet.md.md",
-    "Tech/concepts/Steps to making context for a chat prompt about a .NET9 solution.md",
-    "00-tags.md.md",
-    "templates/gitignore-with-ai.md",
-    "Tech/scripts-and-snippets/2025-09-14-ps-scaffold-config-loader-app-insights.md.md",
-    "Tech/prompts/2025-09-16-prompt-for-bicep",
-    "Tech/scripts-and-snippets/az-cli-snippets.md.md",
-    "Personal/safety-or-junk/NoteOfUnknownValue.md",
-    "Personal/safety-or-junk",
-    "Tech/scripts-and-snippets",
-    "Tech/scripts-and-snippets.md",
-    "Welcome.md",
-    "Tech/cheatsheets/az-cli-cheatsheet.md.md",
-    "Tech/prompts/session-oriented-prompts.md.md",
-    "Tech/ai-sessions/2025-09-14-obsidian-note-system-setup.md.md",
-    "resume/vocabulary",
-    "resume",
-    "Tech/cheatsheets/bicep-cheatsheet.md.md",
-    "Personal/kron.md.md",
-    "Tech/ai-sessions",
-    "Personal/exercise.md.md",
-    "Personal/kayaking.md.md",
-    "Tech/concepts",
-    "Tech/prompts",
-    "Tech/Kron.md.md",
-    "Tech/cheatsheets",
-    "templates/kron-template.md.md",
-    "templates"
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/PROJECT-LOG.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-sync/KNOWN-LIMITATIONS.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/PARKING-LOT.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/project-outline.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/KNOWN-LIMITATIONS.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/smoke-test-edge.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/smoke-test-chrome.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge/prompt.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-Edge",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-sync/prompt.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-sync/smoke-test-chrome.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-sync/PROJECT-LOG.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-sync/PARKING-LOT.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-sync/project-outline.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-sync",
+    "smoke-test-realign",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/prompt-v1.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/project-outline.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/new-phase-4.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/work-breakdown.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/smoke-test-chrome.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-db-tests/work-breakdown.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-db-tests/prompt.md",
+    "Tech/projects/dotnet9-adoption-minimal/phase-1/phase-1-invantory-meaning.md",
+    "Tech/projects/dotnet9-adoption-minimal/phase-2/HTTPS - Issues.md",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/update-for-https-not-configured.md",
+    "Tech/projects/dotnet9-adoption-minimal/phase-2",
+    "Tech/prompts/Session-Context-Transfer-Assistant.md",
+    "Tech/process/Parking-items.md",
+    "Tech/process/todo.md",
+    "Tech/prompts/context-continuation",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/process-checkin/New Text Document.txt",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/process-checkin",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/New folder",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/Web.config",
+    "Tech/projects/dotnet9-adoption-minimal/ai/prompts/phase-1/smoke-test-questions/Startup.cs"
   ]
 }

@@ -1,0 +1,1 @@
+test [WebAppDI](https://github.com/f2calv/WebAppDI) project - does it compile? - is it presentable?

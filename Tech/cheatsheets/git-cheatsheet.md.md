@@ -184,3 +184,100 @@ But honestly, just `git status` is usually sufficient. If it says "nothing to co
 ```
 git branch -m master main
 ```
+
+
+
+# Git Cheat Sheet Entries (Based on This Session)
+
+---
+
+## Branch & Status
+
+**Check Branch & Status**
+- Template: `git status`
+- Purpose/Reason To Use: See your current branch and if you have uncommitted changes.
+- Common Sequence: Before switching branches or pulling, run `git status`.
+- Value: Prevents loss of work and confusion before making changes.
+
+**Switch Branch**
+- Template: `git checkout <branch>`
+- Purpose/Reason To Use: Move to a different branch safely.
+- Common Sequence: `git status` → `git checkout main`
+- Value: Safe to use when no changes are present; shows branch state.
+
+---
+
+## Syncing with Remote
+
+**Fetch Remote Updates**
+- Template: `git fetch origin`
+- Purpose/Reason To Use: Get latest state of remote branches without altering local files.
+- Common Sequence: Run before inspecting remote changes or planning updates.
+- Value: Updates your repo's metadata; does not change files.
+
+**Update Local Branch to Match Remote (Fast-Forward)**
+- Template: `git pull` or `git pull origin <branch>`
+- Purpose/Reason To Use: Bring your local branch up to date with the remote branch.
+- Common Sequence: `git fetch origin` → `git pull`
+- Value: Safely updates files and branch pointer; no merge commit if possible.
+
+**Show Commits Missing Locally**
+- Template: `git log <local_branch>..<remote>/<branch> --oneline`
+- Purpose/Reason To Use: See which commits remote has that you do not locally.
+- Common Sequence: After `git fetch origin`, run `git log main..origin/main --oneline`
+- Value: Helps diagnose why your local branch is "behind".
+
+---
+
+## Rebasing & Merging
+
+**Rebase Local Branch onto Remote/Main**
+- Template: `git rebase origin/main` (or `git rebase main`)
+- Purpose/Reason To Use: Replay your commits on top of the latest main or remote branch commits.
+- Common Sequence: `git fetch origin` → `git checkout <feature-branch>` → `git rebase origin/main`
+- Value: Keeps history linear and up-to-date; working files and repo both updated.
+
+**Merge Remote Changes into Local Branch**
+- Template: `git merge origin/main`
+- Purpose/Reason To Use: Incorporate changes from remote main into your local branch.
+- Common Sequence: `git fetch origin` → `git checkout main` → `git merge origin/main`
+- Value: Useful if fast-forward isn’t possible; solves divergence.
+
+---
+
+## Safety and Inspection
+
+**Check for File-Specific Commit History**
+- Template: `git log --oneline -- <filename>`
+- Purpose/Reason To Use: See commit history for a specific file.
+- Common Sequence: Inspect presence/history of a file (e.g., `git log --oneline -- CONTRIBUTING.md`)
+- Value: Verifies when and if a file was added.
+
+**See Tracking Info and Divergence**
+- Template: `git branch -vv`
+- Purpose/Reason To Use: Show which remote branch your local branch is tracking and if it is ahead/behind.
+- Common Sequence: After fetch, run `git branch -vv`
+- Value: Diagnoses sync issues between local and remote.
+
+---
+
+## Troubleshooting Tips
+
+- **"Fast-forward" means your branch can be updated without a merge commit because it has no unique commits compared to remote.**
+- **`git fetch` only updates your repo’s metadata and remote refs, not files. Use `git pull` or merge/rebase to update files.**
+- **If VS Code shows a file in "open editors" but it's missing in your folder, check your current branch and sync state.**
+- **Force-push (`git push --force-with-lease`) may be needed after rebasing a branch that you’ve already pushed.**
+
+---
+
+## General Workflow Example
+
+**Update Feature Branch with Latest Main**
+1. `git fetch origin`
+2. `git checkout main`
+3. `git pull` (or `git merge origin/main`)
+4. `git checkout <feature-branch>`
+5. `git rebase main`
+6. Resolve conflicts if any, then `git push --force-with-lease` if branch is on remote.
+
+---

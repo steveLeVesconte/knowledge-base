@@ -1,0 +1,1 @@
+Session health: token budget status and context quality? Continue or fresh session?
