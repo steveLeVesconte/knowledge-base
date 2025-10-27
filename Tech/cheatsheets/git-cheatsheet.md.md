@@ -281,3 +281,51 @@ git branch -m master main
 6. Resolve conflicts if any, then `git push --force-with-lease` if branch is on remote.
 
 ---
+
+
+## My Review Process for This Commit
+
+### Architecture
+- [x] Base class design matches DRY requirements
+- [x] Fresh context pattern correctly addresses EF isolation
+- [x] Helper methods have clear, intention-revealing names
+
+### Correctness  
+- [x] All 12 tests pass
+- [x] WithFreshContext used for all post-mutation assertions
+- [x] Fixture access pattern consistent (CreateDbContext)
+- [x] Dispose pattern correctly implemented
+
+### Code Quality
+- [x] XML documentation explains WHY pattern is needed
+- [x] Method signatures use appropriate generics
+- [x] No code duplication between tests
+- [x] Naming conventions followed
+
+### Edge Cases
+- [x] Empty cart scenarios covered
+- [x] Multiple items with quantities handled
+- [x] Cart migration preserves data integrity
+
+### Future-Proofing
+- [x] Pattern extensible to Checkout/Catalog tests
+- [x] No hardcoded assumptions
+- [x] Clear examples in base class docs
+
+**Approval:** Ready for PR
+**Confidence:** High - pattern solves real EF cache issue
+**Concerns:** None - straightforward refactoring
+
+
+
+
+- feat: a new feature
+- fix: a bug fix
+- docs: documentation only changes
+- style: formatting, no code logic changes
+- refactor: code change that neither fixes a bug nor adds a feature
+- perf: performance improvement
+- test: adding or changing tests
+- chore: maintenance (build, tooling, deps)
+- ci: CI config
+- build: build system changes
